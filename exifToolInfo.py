@@ -16,7 +16,6 @@ import datetime
 
 ##*************Copyrights**************##
 ## OWNER: Zahin Azher Rashid
-## Contact: zahin@ebryx.com
 ## Usage: python codeappauto-lib.py <path to file>
 ## Dependencies: BeautifulSoup
 ##*************Thank You***************##

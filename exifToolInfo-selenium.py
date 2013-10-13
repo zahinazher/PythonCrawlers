@@ -18,7 +18,6 @@ from selenium.common.exceptions import NoSuchElementException
 
 ##*************Copyrights**************##
 ## OWNER: Zahin Azher Rashid
-## Contact: zahin@ebryx.com
 ## Usage: python url_query.py <path to file>
 ## Dependencies: BeautifulSoup
 ##*************Thank You***************##

@@ -1,6 +1,5 @@
 ##************Copyrights EBRYX***********##
 ## OWNER: Zahin Azher Rashid
-## Contact: zahin@ebryx.com
 ## Dependencies: BeautifulSoup
 ##*************Thank You***************##
 from BeautifulSoup import BeautifulSoup
