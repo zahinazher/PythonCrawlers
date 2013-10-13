@@ -9,6 +9,7 @@
 
 # Alert!
 # Some class functions have deliberately been omitted due to copyrights reasons. Hence do not try to use this code.
+# Sending mass messages
 
 
 import re
