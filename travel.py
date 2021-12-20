@@ -5,8 +5,7 @@
 # Dependencies : BeautifulSoup module
 # You can give any name to these files. 
 
-# Some modules have been deliberatrly removed 
-# due to Copyright reasons
+# Some modules have been deliberatrly removed\modified due to Copyright reasons
 import re
 import os
 import csv
