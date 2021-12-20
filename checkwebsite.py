@@ -1,3 +1,4 @@
+# Fetches suspicious urls from checkwebsitesafe
 
 import urllib2, sys, os, re, zlib
 from BeautifulSoup import BeautifulSoup
