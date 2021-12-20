@@ -5,7 +5,6 @@
 # Dependencies: BeautifulSoup, xlwt and xlrd
 # You can give any name to these files. 
 
-# Finds product info from Astrolight website
 
 import re
 import os

@@ -4,7 +4,7 @@
 # Usage: "python test1.py <upc.txt>"
 # You can give any name to these files. 
 
-# It fetches the product info for the products in the input file.
+
 import re
 import os
 import csv
