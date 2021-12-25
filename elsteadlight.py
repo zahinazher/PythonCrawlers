@@ -6,7 +6,7 @@
 # You can give any name to these files. 
 
 """
-author: Zahin Azher
+@author: Zahin Azher
 """
 import re
 import os
