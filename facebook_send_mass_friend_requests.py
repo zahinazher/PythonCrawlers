@@ -5,6 +5,9 @@
 # The credentials.csv file contains sender email in its first column and 
 # corresponding password in its 2nd column
 
+"""
+@author: Zahin Azher
+"""
 
 # Alert!
 # Some class functions have deliberately been omitted due to copyrights reasons. Hence do not try to use this code.
