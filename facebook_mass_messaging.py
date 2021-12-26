@@ -6,10 +6,12 @@
 # corresponding password in its 2nd column
 # The message.txt file contains the message to be sent
 
+"""
+@author: Zahin Azher
+"""
 
 # Alert!
 # Some class functions have deliberately been omitted due to copyrights reasons. Hence, do not try to use this code.
-
 
 import re
 import os
